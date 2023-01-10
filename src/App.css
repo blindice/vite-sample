@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&family=Questrial&display=swap');
+body {
+  background: linear-gradient(
+    90deg,
+    rgba(249, 111, 5, 1) 11%,
+    rgba(244, 73, 6, 1) 28%,
+    rgba(237, 61, 12, 1) 63%
+  );
+  font-family: 'Questrial', sans-serif;
+}
